@@ -10,9 +10,10 @@ setup(
     name='Package_Python',
     packages=['Package_Python'],
     description='My first package_test_py',
-    version='0.1',
+    version='1.0.0',
     url='https://github.com/MateusDeFreitasRosa/package_python',
     author='Mateus de Freitas Rosa',
     author_email='mateusfreitasrosa@hotmail.com',
-    keywords=['pip']
+    keywords=['pip'],
+    license='MIT'
 )
