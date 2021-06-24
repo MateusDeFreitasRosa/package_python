@@ -12,7 +12,7 @@ setup(
     description='My first package_test_py',
     version='0.1',
     url='https://github.com/MateusDeFreitasRosa/package_python',
-    author='Linode',
-    author_email='Mateus de Freitas Rosa',
+    author='Mateus de Freitas Rosa',
+    author_email='mateusfreitasrosa@hotmail.com',
     keywords=['pip']
 )
