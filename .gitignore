@@ -1,0 +1,7 @@
+build
+package_python
+package_python.egg-info
+LICENSE
+MANIFEST.in
+README.md
+setup.py
