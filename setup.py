@@ -8,7 +8,7 @@ from setuptools import setup
 
 setup(
     name='package_python',
-    packages=['./utils/package_python'],
+    packages=['package_python'],
     description='My first package_test_py',
     version='1.0.0',
     url='https://github.com/MateusDeFreitasRosa/package_python',
